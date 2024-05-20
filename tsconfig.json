@@ -9,7 +9,7 @@
     "baseUrl": "./src",
     "paths": {
       "@core/*": ["core/*"],
-      "@infra/*": ["infra/*"],
+      "@infrastructure/*": ["infrastructure/*"],
       "@app/*": ["app/*"],
       "@domain/*": ["domain/*"],
       "@presentation/*": ["presentation/*"]
